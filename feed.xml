@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seafish Productions</title>
+    <description>Seafish Productions produces web, mobile, and desktop software.</description>
+    <link>http://seafish.io/</link>
+    <atom:link href="http://seafish.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 18 Mar 2015 20:36:06 -0600</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2015 20:36:06 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Question: How much is Week Counter?</title>
+        <description>&lt;p&gt;Week Counter is absolutely free. Future editions might include “pro” features only available to subscribers.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Feb 2025 08:51:00 -0700</pubDate>
+        <link>http://seafish.io/question/how-much-is-week-counter</link>
+        <guid isPermaLink="true">http://seafish.io/question/how-much-is-week-counter</guid>
+        
+        
+        <category>question</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Week Counter Updated to 1.0.1</title>
+        <description>&lt;p&gt;&lt;b&gt;Week Counter&lt;/b&gt;, the new iOS/iPhone app that lets you see the date a certain number of weeks away from today, has just been updated to version 1.0.1. &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/week-counter-how-many-weeks/id963628888?mt=8&amp;amp;uo=4&quot; target=&quot;itunes_store&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;release-notes&quot;&gt;Release notes&lt;/h4&gt;
+
+&lt;p&gt;Bug fixes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The date will now update correctly when re-opening the app&lt;/li&gt;
+  &lt;li&gt;The date will now update correctly when changing time zones&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tell-me-about-week-counter&quot;&gt;Tell me about Week Counter&lt;/h4&gt;
+&lt;p&gt;Ever wondered what the date is six weeks from today? Some professions need this information all of the time. For example, doctors want to make an appointment with their patient four weeks from today. Instead of pulling out the calendar and counting, simply pull out the Week Counter app and let it do the difficult work.&lt;/p&gt;
+
+&lt;p&gt;Future plans include an Apple Watch integration, so those who use this information all the time will have quick, wrist access to the date several weeks in the future.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Mar 2015 20:32:25 -0600</pubDate>
+        <link>http://seafish.io/blog/news/week-counter-updated-to-1-0-1</link>
+        <guid isPermaLink="true">http://seafish.io/blog/news/week-counter-updated-to-1-0-1</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Week Counter 1.0.0 Live in App Store</title>
+        <description>&lt;p&gt;&lt;b&gt;Week Counter&lt;/b&gt;, the new iOS/iPhone app that lets you see the date a certain number of weeks away from today, has just been approved for the iOS App store. &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/week-counter-how-many-weeks/id963628888?mt=8&amp;amp;uo=4&quot; target=&quot;itunes_store&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;tell-me-about-week-counter&quot;&gt;Tell me about Week Counter&lt;/h4&gt;
+&lt;p&gt;Ever wondered what the date is six weeks from today? Some professions need this information all of the time. For example, doctors want to make an appointment with their patient four weeks from today. Instead of pulling out the calendar and counting, simply pull out the Week Counter app and let it do the difficult work.&lt;/p&gt;
+
+&lt;p&gt;Future plans include an Apple Watch integration, so those who use this information all the time will have quick, wrist access to the date several weeks in the future.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Feb 2015 11:46:00 -0700</pubDate>
+        <link>http://seafish.io/blog/news/week-counter-app-live-app-store</link>
+        <guid isPermaLink="true">http://seafish.io/blog/news/week-counter-app-live-app-store</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Week Counter submitted to Apple for Beta Testing Approval</title>
+        <description>&lt;p&gt;&lt;b&gt;Week Counter&lt;/b&gt;, the new iOS/iPhone app that lets you see the date a certain number of weeks away from today, has just been submitted to Apple for Beta Testing Approval. &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;tell-me-about-week-counter&quot;&gt;Tell me about Week Counter&lt;/h4&gt;
+&lt;p&gt;Ever wondered what the date is six weeks from today? Some professions need this information all of the time. For example, doctors want to make an appointment with their patient four weeks from today. Instead of pulling out the calendar and counting, simply pull out the Week Counter app and let it do the difficult work.&lt;/p&gt;
+
+&lt;p&gt;Future plans include an Apple Watch integration, so those who use this information all the time will have quick, wrist access to the date several weeks in the future.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-can-i-download-it&quot;&gt;How can I download it?&lt;/h4&gt;
+&lt;p&gt;As soon as Week Counter is approved by Apple for Beta Testing, I can begin to invite beta test users. If you would like to participate, please &lt;a href=&quot;/contact/&quot;&gt;contact me&lt;/a&gt; and write your email address in the contact form.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Feb 2015 09:00:32 -0700</pubDate>
+        <link>http://seafish.io/blog/news/week-counter-submitted-app-review</link>
+        <guid isPermaLink="true">http://seafish.io/blog/news/week-counter-submitted-app-review</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Week Counter</title>
+        <description>&lt;h4 id=&quot;week-counter&quot;&gt;WEEK COUNTER&lt;/h4&gt;
+&lt;p&gt;Week Counter is a simple iOS app made for iPhones that will let you know what the date is exactly X weeks from today. Easy preset buttons let you quickly choose 4 weeks from today, 6 weeks from today, 8 weeks from today, 10 weeks from today, or 12 weeks from today.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-can-i-download-it&quot;&gt;How can I download it?&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/week-counter-how-many-weeks/id963628888?mt=8&amp;amp;uo=4&quot; target=&quot;itunes_store&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Feb 2015 08:54:46 -0700</pubDate>
+        <link>http://seafish.io/project/week-counter</link>
+        <guid isPermaLink="true">http://seafish.io/project/week-counter</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>
